@@ -1,6 +1,6 @@
 {
   "name": "test-whoang1-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a test",
   "main": "index.js",
   "scripts": {
