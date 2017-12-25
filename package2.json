@@ -1,0 +1,6 @@
+"@ng-idle/core": "^2.0.0-beta.12",
+"@ng-idle/keepalive": "^2.0.0-beta.12",
+
+"rxjs": "^5.4.3",
+"spin.js": "^2.3.2",
+"zone.js": "^0.8.17"
