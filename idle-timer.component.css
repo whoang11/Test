@@ -1,0 +1,7 @@
+.idle-timer {
+	position: fixed;
+	left: 12px;
+	right: 12px;
+	top: 64px;
+	z-index: 1000;
+}
