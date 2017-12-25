@@ -1,0 +1,4 @@
+79: search for all
+81: Add And Specification for kids
+
+85: Add And Specification for CD
