@@ -132,3 +132,6 @@ export class IdleTimerComponent implements OnInit, OnDestroy {
 
 // index.ts -under the parent folder of component folder
 export * from './idle-timer/idle-timer.component';
+
+// app.module.ts
+import { IdleTimerComponent } from "@app/shared/components";
